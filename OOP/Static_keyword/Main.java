@@ -6,7 +6,7 @@ public class Main {
         Friends friend2 = new Friends("Patrick");
         Friends friend3 = new Friends("Sandy");
 
-
+        
         System.out.println(Friends.numberOfFriends);
 
         Friends.myFriendsList();
